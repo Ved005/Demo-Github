@@ -1,1 +1,5 @@
 newlyadded
+
+this is the practice text to learn git concept
+
+this change is made on branch A
